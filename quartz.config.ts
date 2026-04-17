@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "investment-wiki.pages.dev",
+    baseUrl: "chen101703.github.io/investment-wiki-build",
     ignorePatterns: [
       "private",
       "templates",
