@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Quartz build output
+public/
+.quartz-cache/
+
+# StatiCrypt config (contains password)
+.staticrypt.json
+
+# Local content symlink (content lives in separate investment-wiki repo)
+content
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
